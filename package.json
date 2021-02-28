@@ -1,0 +1,24 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Facebook chatbot",
+  "engines": {
+    "node": "12.20.2",
+    "npm": "7.5.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waluisachi/chatBot.git"
+  },
+  "author": "Waluisachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waluisachi/chatBot/issues"
+  },
+  "homepage": "https://github.com/waluisachi/chatBot#readme"
+}
